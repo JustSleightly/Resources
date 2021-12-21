@@ -31,7 +31,7 @@ Please read the below thoroughly, as well as all [Store Rules](https://github.co
 4. Do **NOT** claim or resell as your own.
 5. Products will be updated and supported for as long as possible, but I am not liable for any changes made by Unity or VRChat that deprecate any features or functionality via software/game updates.
 6. I am **NOT** responsible for keeping products up to date indefinitely. If my store closes, updates will be released to support stable long-term usage.
-7. If you are **BANNED** from my server, you may not use any of my products commercially.
+7. If you are **BANNED** from my server, you may NOT use any of my products commercially.
 8. You must credit when used for commercial usage or media (assuming you have commercial permission/license). Credit in personal usage would be appreciated.
 9. You must adhere to any product/service specific Terms and Conditions, which may override some of these. See below and product page for more detail.
 
