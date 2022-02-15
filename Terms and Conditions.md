@@ -65,4 +65,4 @@ Please read the below thoroughly, as well as all [Store Rules](https://github.co
 ---
 
 # Crediting:
-Please credit **@JustSleightly#0001** and provide a link to this [Discord](https://discord.sleightly.dev) server where applicable ([https://discord.sleightly.dev](https://discord.sleightly.dev)) . A link my [Store](store.sleightly.dev) would also be appreciated, but the discord is higher priority as it is a prerequisite for purchasing.
+Please credit **@JustSleightly#0001** and provide a link to this [Discord](https://discord.sleightly.dev) server where applicable ([https://discord.sleightly.dev](https://discord.sleightly.dev)) . A link to my [Store](store.sleightly.dev) would also be appreciated, but the discord is higher priority as it is a prerequisite for purchasing.
