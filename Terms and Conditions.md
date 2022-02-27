@@ -39,7 +39,8 @@ Please read the below thoroughly, as well as all [Store Rules](https://github.co
 1. **All [General Terms and Conditions](https://github.com/JustSleightly/Resources/blob/main/Terms%20and%20Conditions.md#general-terms-and-conditions) above apply**
 2. Do **NOT** use commercially unless you have permission (such as a commercial license)
 3. Do **NOT** resell alone. It must be used as part of a whole model if you have a commercial license.
-4. If the asset includes a scripted setup, do not include the scripts in any packages for redistribution. (See **[Script/Tool Product Terms and Conditions](https://github.com/JustSleightly/Resources/blob/main/Terms%20and%20Conditions.md#scripttool-product-terms-and-conditions)**)
+4. Do **NOT** resell as part of a product whose cost is cheaper than the personal license price of the asset.
+5. If the asset includes a scripted setup, do not include the scripts in any packages for redistribution. (See **[Script/Tool Product Terms and Conditions](https://github.com/JustSleightly/Resources/blob/main/Terms%20and%20Conditions.md#scripttool-product-terms-and-conditions)**)
 
 ## Script/Tool Product Terms and Conditions:
 1. **All [General Terms and Conditions](https://github.com/JustSleightly/Resources/blob/main/Terms%20and%20Conditions.md#general-terms-and-conditions) above apply**
@@ -48,6 +49,7 @@ Please read the below thoroughly, as well as all [Store Rules](https://github.co
 4. I am **NOT** liable for damage or harm caused by manipulation or misuse of the script.
 5. I am **NOT** liable for any changes made by Unity or VRChat that deprecate any features or functionality via software/game updates
 6. Do **NOT** redistribute scripts, even with commercial license. They must be removed from any packages beforehand. See product documentation/FAQ for more information on how to remove/export them.
+7. If you have a commercial license, do **NOT** resell the generated contents as part of a product whose cost is cheaper than the personal license price of the tool/system.
 
 ## Model Product Terms and Conditions:
 1. **All [General Terms and Conditions](https://github.com/JustSleightly/Resources/blob/main/Terms%20and%20Conditions.md#general-terms-and-conditions) above apply**
