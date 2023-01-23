@@ -27,13 +27,14 @@ Please read the below thoroughly, as well as all [Store Rules](https://github.co
 ## General Terms and Conditions:
 1. Do **NOT** redistribute any files from my products, services, or related channels. If you'd like to purchase for someone else, see #store-rules.
 2. Do **NOT** use commercially without permission, such as selling on an avatar or offering it as a service or upsell in an upload or commission.
-3. Do **NOT** use on public releases or uploads without permission.
-4. Do **NOT** claim or resell as your own.
-5. Products will be updated and supported for as long as possible, but I am not liable for any changes made by Unity or VRChat that deprecate any features or functionality via software/game updates.
-6. I am **NOT** responsible for keeping products up to date indefinitely. If my store closes, updates will be released to support stable long-term usage.
-7. If you are **BANNED** from my server, you may NOT use any of my products commercially.
-8. You must credit when used for commercial usage or media (assuming you have commercial permission/license). Credit in personal usage would be appreciated.
-9. You must adhere to any product/service specific Terms and Conditions, which may override some of these. See below and product page for more detail.
+4. Do **NOT** use on public releases or uploads without permission.
+5. Do **NOT** claim or resell as your own.
+6. Commercial commissions do not include commercial rights to the commission client. Commercial licenses are required for all parties **making revenue**, whether that be being a creator offering services to install a product, a creator selling an avatar with the product, or both.
+7. Products will be updated and supported for as long as possible, but I am not liable for any changes made by Unity or VRChat that deprecate any features or functionality via software/game updates.
+8. I am **NOT** responsible for keeping products up to date indefinitely. If my store closes, updates will be released to support stable long-term usage.
+9. If you are **BANNED** from my server, you may NOT use any of my products commercially.
+10. You must credit when used for commercial usage or media (assuming you have commercial permission/license). Credit in personal usage would be appreciated.
+11. You must adhere to any product/service specific Terms and Conditions, which may override some of these. See below and product page for more detail.
 
 ## Asset Product Terms and Conditions:
 1. **All [General Terms and Conditions](https://github.com/JustSleightly/Resources/blob/main/Terms%20and%20Conditions.md#general-terms-and-conditions) above apply**
