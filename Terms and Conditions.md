@@ -38,25 +38,26 @@ Please read the below thoroughly, as well as all [Store Rules](https://github.co
 9. You must credit when used for commercial usage or media (assuming you have commercial permission/license). Credit in personal usage would be appreciated.
 10. You must adhere to any product/service specific Terms and Conditions, which may override some of these. See below and product page for more detail.
 
-## Asset Product Terms and Conditions
+## Asset/System Product Terms and Conditions
 
 1. **All [General Terms and Conditions](https://github.com/JustSleightly/Resources/blob/main/Terms%20and%20Conditions.md#general-terms-and-conditions) above apply**
 2. Do **NOT** use commercially unless you have permission (such as a commercial license)
-3. Do **NOT** resell alone. It must be used as part of a whole model if you have a commercial license.
-4. Do **NOT** resell as part of a product whose cost is cheaper than the personal license price of the asset.
-5. If the asset includes a scripted setup, do not include the scripts in any packages for redistribution. (See **[Script/Tool Product Terms and Conditions](https://github.com/JustSleightly/Resources/blob/main/Terms%20and%20Conditions.md#scripttool-product-terms-and-conditions)**)
+3. Do **NOT** resell alone. It must be used as part of a whole avatar if you have a commercial license.
+4. Do **NOT** resell as part of an avatar whose cost is cheaper than the personal license price of the asset/system.
+5. A commercial license is required by any/all parties generating revenue from this product (including paid commissions).
+6. If the asset/system includes a scripted setup, do not include the scripts in any packages for redistribution. (See **[Script/Tool Product Terms and Conditions](https://github.com/JustSleightly/Resources/blob/main/Terms%20and%20Conditions.md#scripttool-product-terms-and-conditions)**)
 
 ## Script/Tool Product Terms and Conditions
 
 1. **All [General Terms and Conditions](https://github.com/JustSleightly/Resources/blob/main/Terms%20and%20Conditions.md#general-terms-and-conditions) above apply**
 2. Do **NOT** attempt to disassemble or de-obfuscate any scripts or source code, according to DMCA Code 1201 regarding circumvention of copyright protection systems.
-3. In the event of hardware change, software licenses can be automatically transferred after pre-determined cooldown timers in [Discord](https://discord.sleightly.dev) via opening a Reset/Transfer License ticket in the #open-a-ticket channel. Anything more frequent, please open up a support case to explain your situation. These are monitored, and frequent use of this system will be investigated for abuse.
+3. In the event of hardware change, software licenses can be automatically transferred after pre-determined cooldown timers via the Transfer License option in the script activation window. Anything more frequent, please open up a support case to explain your situation. These are monitored, and frequent use of this system will be investigated for abuse.
 4. I am **NOT** liable for damage or harm caused by manipulation or misuse of the script.
 5. I am **NOT** liable for any changes made by Unity or VRChat that deprecate any features or functionality via software/game updates
 6. Do **NOT** redistribute scripts, even with commercial license. They must be removed from any packages beforehand. See product documentation/FAQ for more information on how to remove/export them.
-7. If you have a commercial license, do **NOT** resell the generated contents as part of a product whose cost is cheaper than the personal license price of the tool/system.
+7. If you have a commercial license, do **NOT** resell the generated contents as part of an avatar whose cost is cheaper than the personal license price of the tool/asset/system.
 
-## Model Product Terms and Conditions
+## Avatar Product Terms and Conditions
 
 1. **All [General Terms and Conditions](https://github.com/JustSleightly/Resources/blob/main/Terms%20and%20Conditions.md#general-terms-and-conditions) above apply**
 2. Do **NOT** upload to others' accounts.
