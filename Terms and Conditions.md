@@ -27,7 +27,7 @@ Please read the below thoroughly, as well as all [Store Rules](https://github.co
 
 ## General Terms and Conditions
 
-1. Do **NOT** redistribute any files from my products, services, or related channels. If you'd like to purchase for someone else, see #store-rules.
+1. Do **NOT** redistribute any files from my products, services, or related channels. If you'd like to purchase for someone else, see [Store Rules](https://github.com/JustSleightly/Resources/blob/main/Terms%20and%20Conditions.md#store-rules).
 2. Do **NOT** use commercially without permission, such as selling on an avatar or offering it as a service or upsell in an upload or commission.
 3. Do **NOT** use on public releases or uploads without permission.
 4. Do **NOT** claim or resell as your own.
