@@ -1,6 +1,6 @@
 # Store Rules
 
-1. Please read these rules, and [Terms and Conditions](https://github.com/JustSleightly/Resources/blob/main/Terms%20and%20Conditions.md#terms-and-conditions) before making a purchase.
+1. Please read these rules, [Terms and Conditions](https://github.com/JustSleightly/Resources/blob/main/Terms%20and%20Conditions.md#terms-and-conditions), and [Privacy Policy](https://github.com/JustSleightly/Resources/blob/main/Privacy%20Policy.md) before making a purchase.
 2. All purchases made on gumroad must be validated through [Discord](https://discord.sleightly.dev) to claim your purchase. This is an automatic process that can be started by opening a ticket via the #open-a-ticket channel. You are purchasing a license key that is then activated to grant you authorization and permissions.
 3. If you'd like to purchase for someone else, please put their email address and give them the key for them to validate the order on [Discord](https://discord.sleightly.dev) and activate the purchase.
 4. Breaking the terms of use of any product will have product access revoked, server access and information blacklisted, and any active licenses/subscriptions terminated without refund.
@@ -23,7 +23,7 @@
 
 # Terms and Conditions
 
-Please read the below thoroughly, as well as all [Store Rules](https://github.com/JustSleightly/Resources/blob/main/Terms%20and%20Conditions.md#store-rules), and the product information for the product you're interested in before making a purchase.
+Please read the below thoroughly, as well as all [Store Rules](https://github.com/JustSleightly/Resources/blob/main/Terms%20and%20Conditions.md#store-rules), and the product information for the product you're interested in before making a purchase. By purchasing a product, you agree to these Terms and Conditions & [Privacy Policy](https://github.com/JustSleightly/Resources/blob/main/Privacy%20Policy.md).
 
 ## General Terms and Conditions
 
