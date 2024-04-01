@@ -16,6 +16,6 @@ If you're interested in reading up or learning more, check out the following edu
 
 ## [vrc.school](https://vrc.school/)
 
-![Unity Certification for VRChat Avatars](https://github.com/JustSleightly/Resources/raw/main/Images/UCVA.png)
+![Unity Certification for VRChat Avatars](https://github.com/JustSleightly/Resources/blob/main/Images/UCVA/UCVA.png)
 
 </div>
