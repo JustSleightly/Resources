@@ -1,0 +1,44 @@
+{
+  "variant": "outline",
+  "font": "space-grotesk",
+  "split": false,
+  "sizes": {
+    "navigation": "sm",
+    "metadata": "xs"
+  },
+  "height_px": {
+    "navigation": 32,
+    "metadata": 24
+  },
+  "accent": {
+    "gradient": "9E001A,C24A3C,A71D24,780717,225",
+    "stops_percent": [
+      0,
+      33.3333333333,
+      66.6666666667,
+      100
+    ],
+    "foreground": "FFFFFF"
+  },
+  "supporting": {
+    "dark": {
+      "border": "CA8F9F",
+      "gradient": "2C171E,2C171E",
+      "label": "E9B7C1",
+      "value": "FAFAFA",
+      "logo": "DF8395"
+    },
+    "light": {
+      "border": "A0445A",
+      "gradient": "F9EDF0,F9EDF0",
+      "label": "81253A",
+      "value": "591323",
+      "logo": "9E001A"
+    }
+  },
+  "notes": [
+    "Add To VPM uses the accent gradient; the other committed static badges use supporting colors.",
+    "Live metadata integration is separate from these static SVG assets.",
+    "Do not assume native badge groups support these per-badge gradients or individual link destinations."
+  ]
+}
