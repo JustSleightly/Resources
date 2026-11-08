@@ -21,7 +21,7 @@ The release endpoint selects the latest stable release. Downloads count GitHub r
 
 ## Native Group Comparison
 
-![Resources updated date and contributor count](https://shieldcn.dev/group/github/last-commit/JustSleightly/Resources+github/contributors/JustSleightly/Resources.svg?variant=outline&font=space-grotesk&size=xs&mode=dark&theme=rose)
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/group/github/last-commit/JustSleightly/Resources+github/contributors/JustSleightly/Resources.svg?variant=outline&amp;font=space-grotesk&amp;size=xs&amp;mode=dark&amp;theme=rose"><img alt="Resources updated date and contributor count" src="https://shieldcn.dev/group/github/last-commit/JustSleightly/Resources+github/contributors/JustSleightly/Resources.svg?variant=outline&amp;font=space-grotesk&amp;size=xs&amp;mode=light&amp;theme=rose"></picture>
 
 This joined image uses real Resources values. Native groups do not support the selected per-badge gradient or separate links for each segment. The main README uses individual badges to retain the selected styling and destinations; this is a comparison, not a final group decision.
 
