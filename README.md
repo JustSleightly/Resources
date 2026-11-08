@@ -15,6 +15,8 @@
 
 <p align="center">Browse shared badges, icons, images, and reference documents used across JustSleightly projects.<br>Link to the assets you need or copy them into your project.</p>
 
+---
+
 <table align="center">
 <tr>
 <td align="center" width="300"><strong>JustSleightly</strong></td>
